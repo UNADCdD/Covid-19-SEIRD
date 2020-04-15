@@ -9,7 +9,11 @@ Gracias por su interés en tomarse el tiempo de revisar este material y hacer su
 
 
 Cordialmente,
+
 ***Equipo de Ciencia de Datos***
+
 Escuela de Ciencias Básicas, Tecnología e Ingenierías
+
 Universidad Nacional Abierta y a Distancia - UNAD
+
 Colombia
