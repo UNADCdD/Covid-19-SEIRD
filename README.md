@@ -7,6 +7,9 @@ Se pretende que éste sea un primer paso para generar una dinámica de investiga
 
 Gracias por su interés en tomarse el tiempo de revisar este material y hacer sus comentarios que los puede hacer llegar a [este correo](carlos.alvarez@unad.edu.co)
 
+[carlos.alvarez@unad.edu.co](mailto:carlos.alvarez@unad.edu.co)
+
+
 Cordialmente,
 ***Equipo de Ciencia de Datos***
 Escuela de Ciencias Básicas, Tecnología e Ingenierías
