@@ -5,9 +5,7 @@ Como primera actividad se tiene la realización de una presentación para expone
 
 Se pretende que éste sea un primer paso para generar una dinámica de investigación en la línea de Ciencia de Datos aplicada al análisis de la información COVID-19. 
 
-Gracias por su interés en tomarse el tiempo de revisar este material y hacer sus comentarios que los puede hacer llegar a [este correo](carlos.alvarez@unad.edu.co)
-
-[carlos.alvarez@unad.edu.co](mailto:carlos.alvarez@unad.edu.co)
+Gracias por su interés en tomarse el tiempo de revisar este material y hacer sus comentarios que los puede hacer llegar a [este correo](mailto:carlos.alvarez@unad.edu.co)
 
 
 Cordialmente,
